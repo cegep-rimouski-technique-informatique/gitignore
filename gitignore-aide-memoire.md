@@ -1,6 +1,8 @@
 # `.gitignore feuille aide-mémoire`
 
-Créez un fichier `.gitignore` dans votre répertoire racine
+Créez un fichier `.gitignore` dans votre répertoire racine.
+Chaque ligne de votre fichier contient une règle.
+Les règles sont séparées par un retour de ligne seulement.
 
 ## Ignorer les fichiers uniques
 
